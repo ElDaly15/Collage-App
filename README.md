@@ -1,16 +1,19 @@
-# baby
+## Collage App  
+**Duration**: 06/2024 – 08/2024  
+**Technologies**: Flutter, Firebase, Facial Recognition Algorithms  
 
-A new Flutter project.
+### Introduction
+The Collage App is an innovative educational tool designed to streamline session management and attendance tracking using facial recognition technology.
 
-## Getting Started
+### Features
+- **Teacher Session Management**: Enables teachers to open and manage classroom sessions effortlessly.
+- **Student Verification**: Implements a secure facial recognition system for students to verify their attendance using the camera.
+- Built using Flutter for cross-platform development.
+- Integrated Firebase for backend services, including real-time database and cloud storage.
+- Improved classroom efficiency and security by reducing the time needed for attendance tracking and administrative tasks.
 
-This project is a starting point for a Flutter application.
+## Contributing
+Feel free to fork the project and submit pull requests. All contributions are welcome!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
